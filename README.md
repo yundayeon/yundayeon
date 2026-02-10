@@ -6,7 +6,6 @@
   <img src = "https://img.shields.io/badge/python-3670A0?style=flate&logo=python&logoColor=ffdd54"/>&nbsp
   <img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=flate&logo=mysql&logoColor=white"/>&nbsp
   <img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=flate&logo=Flutter&logoColor=white"/>&nbsp
-  <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=flate&logo=unity&logoColor=white"/>&nbsp
 </div>
 
 ## Activity
